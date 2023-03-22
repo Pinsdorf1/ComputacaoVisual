@@ -31,6 +31,11 @@ https://fusiontecnologia.com/6-aplicacoes-de-visao-computacional-para-voce-conhe
 Processamento de Imagens: 
 https://pt.wikipedia.org/wiki/Processamento_de_imagem
 
+# 3Entraga
+
+O efeito de desfoque(assunto tratado no artigo científico), é uma técnica utilizada no processamento de imagens para suavizar detalhes e reduzir o ruído. Na medicina, a presença de ruído em imagens diagnósticas, como tomografia e ressonância magnética, pode prejudicar a precisão e acurácia do diagnóstico. Ao aplicar o efeito de desfoque nessas imagens, o ruído é reduzido, permitindo uma visão mais clara e nítida das estruturas anatômicas em questão, é essencial a aplicação do efeito de desfoque, a fim de melhorar a qualidade das imagens sem comprometer interpretação clínica.
+
+Fonte-> https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4718178/
 
 
 

@@ -1,10 +1,10 @@
 import cv2
 
 # carrega o classificador Haar Cascade para gatos
-cat_cascade = cv2.CascadeClassifier('haarcascade_frontalcatface.xml')
+cat_cascade = cv2.CascadeClassifier('projeto/xml/haarcascade_frontalcatface.xml')
 
 # carrega a imagem em escala de cinza
-img = cv2.imread('asd.jpg')
+img = cv2.imread('projeto/imagens/imagemGato1.jpg')
 gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
 # detecta gatos na imagem
